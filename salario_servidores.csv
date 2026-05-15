@@ -1,0 +1,15 @@
+ano,mes,governo,situacao_folha,regra_pagamento,dia_util_medio,parcelas,limite_integral_1a_parcela_rs
+2015,janeiro,Pimentel,Regular,Pagamento integral no 5º dia útil,5,1,Sem limite
+2016,fevereiro,Pimentel,Parcelado,Escalonamento por faixas salariais,12,3,3000.00
+2016,outubro,Pimentel,Parcelado e Atrasado,Mudança de datas para o meio do mês,14,3,3000.00
+2017,dezembro,Pimentel,Parcelado e Atrasado,Atraso crônico e retenção de consignados,15,3,3000.00
+2018,dezembro,Pimentel,Crise Extrema,13º salário não pago no ano de vigência,20,3,3000.00
+2019,janeiro,Zema,Transição Crítica,Manutenção temporária do parcelamento anterior,14,3,2000.00
+2019,maio,Zema,Previsibilidade,Redução do escalonamento para duas parcelas,11,2,3000.00
+2020,janeiro,Zema,Flexibilização,Segurança e Saúde recebem integralmente,7,2,3000.00
+2021,agosto,Zema,Regularizado,Fim do parcelamento (venda da folha ao Itaú),5,1,Sem limite
+2022,dezembro,Zema,Regular,Retorno definitivo ao calendário regular,5,1,Sem limite
+2023,dezembro,Zema,Regular,Pagamento unificado no 5º dia útil,5,1,Sem limite
+2024,dezembro,Zema,Regular,13º salário quitado em parcela única no prazo,5,1,Sem limite
+2025,dezembro,Zema,Regular,Manutenção do pagamento integral,5,1,Sem limite
+2026,maio,Zema,Regular,Folha em dia com recomposição de 5.4% aprovada,5,1,Sem limite
